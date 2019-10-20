@@ -1,0 +1,24 @@
+.btn {
+    margin-right: 0.5rem;
+}
+
+.login-popup {
+    width: 25rem;
+    height: 10rem;
+    /* border-style: solid; */
+    /* border-color: brown; */
+    /* border-width: 0.1rem; */
+}
+
+.vertical-center {
+    min-height: 60%;  /* Fallback for browsers do NOT support vh unit */
+    min-height: 60vh; /* These two lines are counted as one :-)       */
+  
+    display: flex;
+    align-items: center;
+}
+
+.keterangan {
+    color: gray;
+    font-size: 0.8rem;
+}
